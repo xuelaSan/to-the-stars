@@ -1,1 +1,0 @@
-const t={key:"v-ce4d94ba",path:"/books/01/009-%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E5%9B%9E%E5%A3%B0.html",title:"\u7B2C\u4E5D\u7AE0 \u56DE\u58F0",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1657638715e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:4}]},filePathRelative:"books/01/009-\u7B2C\u4E5D\u7AE0-\u56DE\u58F0.md"};export{t as data};
