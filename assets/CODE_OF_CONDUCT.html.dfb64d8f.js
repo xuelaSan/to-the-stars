@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-639b7773","path":"/packages/workers/node_modules/typescript/CODE_OF_CONDUCT.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"packages/workers/node_modules/typescript/CODE_OF_CONDUCT.md"}');export{e as data};
